@@ -1,5 +1,8 @@
 package day01;
 
+import java.time.LocalDateTime;
+import java.util.Arrays;
+
 public class MovieMain {
 	public static void main(String[] args) {
 		Cinema cinema = new Cinema();
